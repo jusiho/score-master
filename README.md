@@ -1,4 +1,4 @@
-you need to install for run:
+## You need to install for run:
 - Git
 - Node js
 
